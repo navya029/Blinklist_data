@@ -1,0 +1,72 @@
+{
+  "currentlyreading":[
+{
+  "id":1,
+  "image":"1.png",
+  "name":"Bring Your Human to Work",
+  "author":"Erica Keswin",
+  "duration":"13",
+  "reads":"1.9"
+   },
+  {
+  "id":2,
+  "image":"2.png",
+  "name":"Beyond Entrepreneurship 2.0",
+  "author":"Jim Collins & Bill Lazier",
+  "duration":"15"
+  },
+  {
+  "id":3,
+  "image":"3.png",
+  "name":"Doesn’t Hurt to Ask",
+  "author":"Trey Gowdy",
+  "duration":"13",
+  "reads":"1.9"
+  },
+  {
+  "id":4,
+  "image":"4.png",
+  "name":"The Fate of Food",
+  "author":"Amanda Little",
+  "duration":"12",
+  "reads":"16"
+  },
+  {
+  "id":5,
+  "image":"5.png",
+  "name":"Lives of the Stoics",
+  "author":"Ryan Holiday, Stephen Hansel",
+  "duration":"13"
+  },
+  {
+  "id":6,
+  "image":"6.png",
+  "name":"Loving Your Business",
+  "author":"Debbie King",
+  "duration":"13"
+  },
+  {
+  "id":7,
+  "image":"7.png",
+  "name":"The Lonely Century",
+  "author":"Noreena Hertz",
+  "duration":"15"
+  },
+  {
+  "id":8,
+  "image":"8.png",
+  "name":"Eat Better, Feel Better",
+  "author":"Giada De Laurentiis",
+  "duration":"13",
+  "reads":"1.9"
+  },
+  {
+  "id":9,
+  "image":"9.png",
+  "name":"Dropshipping",
+  "author":"James Moore",
+  "duration":"12"
+  }
+]
+  
+}
